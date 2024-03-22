@@ -1,4 +1,4 @@
-#COLORES
+# COLORES
 
 - Rojo
 - Azul
